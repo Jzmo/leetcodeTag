@@ -1,27 +1,27 @@
 #LeetCode patterns
 - Seperated leetcode problems with tags
 - Tags (may)includes:
--- Array
--- Hash Table
--- Linked List
--- Math
--- Two Pointers
--- String
--- Binary Search
--- Divide and Conquer
--- Dynamic Programming
--- Backtracking
--- Stack
--- Heap
--- Greedy
--- Sort
--- Bit Manipulation
--- Tree
--- Depth-first Search
--- Breadth-first Search
--- Union Find
--- Graph
--- Design
+  -- Array
+  -- Hash Table
+  -- Linked List
+  -- Math
+  -- Two Pointers
+  -- String
+  -- Binary Search
+  -- Divide and Conquer
+  -- Dynamic Programming
+  -- Backtracking
+  -- Stack
+  -- Heap
+  -- Greedy
+  -- Sort
+  -- Bit Manipulation
+  -- Tree
+  -- Depth-first Search
+  -- Breadth-first Search
+  -- Union Find
+  -- Graph
+  -- Design
 -- Topological Sort
 -- Trie
 -- Binary Indexed Tree
