@@ -6,7 +6,8 @@
 
 ### Algorithms
                     
-| pattern |\# | Title | Solution | time | space | Rank | Difficulty |
+| pattern |\# | Title | Solution | time | space | Difficulty |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|Tree（DFS）| 144 | [Binary Tree Preorder Traversal](https://github.com/Jzmo/leetcodeTag/tree/master/tree/Binary%20Tree%20Preorder%20Traversal) | python3 | O(N) | O(N) | 96.88% | medium |
-|Tree（DFS）| 145 | [Binary Tree Postorder Traversal](https://github.com/Jzmo/leetcodeTag/tree/master/tree/Binary%20Tree%20Postorder%20Traversal) | python3 | O(N) | O(N) | 97.15% | medium |
+|Tree| 144 | [Binary Tree Preorder Traversal](https://github.com/Jzmo/leetcodeTag/tree/master/tree/Binary%20Tree%20Preorder%20Traversal) | python3 | O(N) | O(N) | medium |
+|Tree| 145 | [Binary Tree Postorder Traversal](https://github.com/Jzmo/leetcodeTag/tree/master/tree/Binary%20Tree%20Postorder%20Traversal) | python3 | O(N) | O(N) | hard |
+|Tree| 94 | [Binary Tree inorder Traversal](https://github.com/Jzmo/leetcodeTag/tree/master/tree/Binary%20Tree%20inorder%20Traversal) | python3 | O(N) | O(N) | medium |
